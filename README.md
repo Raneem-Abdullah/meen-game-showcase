@@ -62,13 +62,13 @@ Some of the key challenges addressed during development included:
 ![Game Home](screenshots/home.png)
 
 ### Multiplayer Board
-![Game Board](screenshots/game-board.png)
+![Game Board](screenshots/game-board.jpg)
 
 ### Player Experience
 ![Player Screen](screenshots/player-screen.jpg)
 
 ### Answer Reveal
-![Answer Reveal](screenshots/answer-reveal.png)
+![Answer Reveal](screenshots/answer-reveal.jpg)
 ## Live Website
 
 [View Meen? Game](https://meen.bynoha-4.workers.dev)
