@@ -65,7 +65,7 @@ Some of the key challenges addressed during development included:
 ![Game Board](screenshots/game-board.png)
 
 ### Player Experience
-![Player Screen](screenshots/player-screen.png)
+![Player Screen](screenshots/player-screen.jpg)
 
 ### Answer Reveal
 ![Answer Reveal](screenshots/answer-reveal.png)
